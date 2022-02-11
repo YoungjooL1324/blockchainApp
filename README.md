@@ -1,2 +1,2 @@
 # blockchainApp
-Blcockhain App
+Blcockhain App that models Bitcoin
